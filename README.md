@@ -23,6 +23,44 @@ I am a Fullstack Developer, specializing in React, Node and AWS. From startups t
   <summary>React</summary>
   <br>
   <details>
+    <summary>State</summary>
+    <br>
+
+  [customHooks](https://github.com/jaymzdrury/react-customHooks)
+  <br>
+  [useReducer-as-useState](https://github.com/jaymzdrury/react-usereducer-as-usestate)
+  <br>
+  [context](https://github.com/jaymzdrury/react-context)
+  
+  </details>
+  <details>
+    <summary>Techniques</summary>
+    <br>
+
+  [dnd](https://github.com/jaymzdrury/react-dnd)
+  <br>
+  [infinite-scroll](https://github.com/jaymzdrury/react-infinite-scroll)
+  <br>
+  [portals](https://github.com/jaymzdrury/react-portals)
+  <br>
+  [fetch w/ suspense](https://github.com/jaymzdrury/react-suspense-datafetching)
+
+  
+  </details>
+  <details>
+    <summary>Design Patterns</summary>
+    <br>
+    
+  [hocs](https://github.com/jaymzdrury/react-hocs)
+  <br>
+  [compounds](https://github.com/jaymzdrury/react-compounds)
+  <br>
+  [polymorphism](https://github.com/jaymzdrury/react-polymorphic)
+  <br>
+  [render-props](https://github.com/jaymzdrury/react-renderprops)
+    
+  </details>
+  <details>
     <summary>React Libraries</summary>
   <br>
     
@@ -36,4 +74,20 @@ I am a Fullstack Developer, specializing in React, Node and AWS. From startups t
   <br>
   [redux](https://github.com/jaymzdrury/react-redux-init)
   </details>
+  <details>
+    <summary>React-Router</summary>
+  <br>
+    
+  [private-routes](https://github.com/jaymzdrury/react-router-dom-privateRoutes)
+  <br>
+  [useSearchParams-as-useState](https://github.com/jaymzdrury/react-router-dom-useSearchParams-as-useState)
+  <br>
+  [useOutletContext](https://github.com/jaymzdrury/react-router-dom-useOutletContext)
+  </details>
+</details>
+
+---
+
+<details>
+  <summary>Next</summary>
 </details>
