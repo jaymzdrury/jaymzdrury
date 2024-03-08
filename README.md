@@ -15,6 +15,25 @@ I am a Fullstack Developer, specializing in React, Node and AWS. From startups t
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-<br />
+<br>
 
 ---
+
+<details>
+  <summary>React</summary>
+  <br>
+  <details>
+    <summary>React Libraries</summary>
+  <br>
+    
+  [i18](https://github.com/jaymzdrury/react-i18)
+  <br>
+  [react-hook-form](https://github.com/jaymzdrury/react-hook-form)
+  <br>
+  [react-query](https://github.com/jaymzdrury/react-query)
+  <br>
+  [zustand](https://github.com/jaymzdrury/react-zustand-init)
+  <br>
+  [redux](https://github.com/jaymzdrury/react-redux-init)
+  </details>
+</details>
