@@ -90,4 +90,27 @@ I am a Fullstack Developer, specializing in React, Node and AWS. From startups t
 
 <details>
   <summary>Next</summary>
+  <br>
+  <details>
+    <summary>Methods</summary>
+    <br>
+    
+  [server-actions](https://github.com/jaymzdrury/next-server-actions)
+  <br>
+  [params-as-useState](https://github.com/jaymzdrury/next-params-as-useState)
+  <br>
+  [streaming](https://github.com/jaymzdrury/next-streaming)
+  <br>
+  [generateStaticParams](https://github.com/jaymzdrury/next-generateStaticParams)
+  <br>
+  [apiRoutes](https://github.com/jaymzdrury/next-apiRoutes)
+  <br>
+  [parallel-routes](https://github.com/jaymzdrury/next-parallel-routes)
+  </details>
+  <details>
+    <summary>Database</summary>
+    <br>
+    
+  [prisma](https://github.com/jaymzdrury/next-prisma)
+  </details>
 </details>
