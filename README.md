@@ -39,8 +39,6 @@ I am a Fullstack Developer, specializing in React, Node and AWS. From startups t
 
   [dnd](https://github.com/jaymzdrury/react-dnd)
   <br>
-  [infinite-scroll](https://github.com/jaymzdrury/react-infinite-scroll)
-  <br>
   [portals](https://github.com/jaymzdrury/react-portals)
   <br>
   [fetch w/ suspense](https://github.com/jaymzdrury/react-suspense-datafetching)
