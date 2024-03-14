@@ -100,7 +100,7 @@ I am a Fullstack Developer, specializing in React, Node and AWS. From startups t
   [streaming](https://github.com/jaymzdrury/next-streaming)
   <br>
   [promises-as-props](https://github.com/jaymzdrury/next-promises-as-props)
-  <b>
+  <br>
   [generateStaticParams](https://github.com/jaymzdrury/next-generateStaticParams)
   <br>
   [apiRoutes](https://github.com/jaymzdrury/next-apiRoutes)
