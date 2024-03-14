@@ -28,7 +28,7 @@ I am a Fullstack Developer, specializing in React, Node and AWS. From startups t
 
   [customHooks](https://github.com/jaymzdrury/react-customHooks)
   <br>
-  [React-18-Hooks](https://github.com/jaymzdrury/react-18-hooks)
+  [react-18-Hooks](https://github.com/jaymzdrury/react-18-hooks)
   <br>
   [useReducer-as-useState](https://github.com/jaymzdrury/react-usereducer-as-usestate)
   <br>
