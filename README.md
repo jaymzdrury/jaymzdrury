@@ -2,7 +2,7 @@
 
 **`Fullstack Developer (React, Node, AWS)`**
 
-I am a Fullstack Developer, specializing in React, Node and AWS. From startups to big tech, I am experienced in building end-to-end applications. Reach out to me on my LinkedIn page at [James Drury](https://www.linkedin.com/in/jaymzdrury/) to build your next dream project together.
+I am a Fullstack Developer, specializing in React, Node and AWS. From startups to big tech, I am experienced in building end-to-end applications. Reach out to me on my LinkedIn page [in/jaymzdrury](https://www.linkedin.com/in/jaymzdrury/) to build the next dream project together.
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
