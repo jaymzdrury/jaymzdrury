@@ -1,4 +1,4 @@
-# 🏄‍♂️ James Drury
+# 🧢 James Drury
 
 **`Fullstack Developer (React, Node, AWS)`**
 
