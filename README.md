@@ -58,6 +58,8 @@ I am a Fullstack Developer, specializing in React, Node and AWS. From startups t
   [polymorphism](https://github.com/jaymzdrury/react-polymorphic)
   <br>
   [render-props](https://github.com/jaymzdrury/react-renderprops)
+  <br>
+  [singleton](https://github.com/jaymzdrury/react-singleton)
     
   </details>
   <details>
