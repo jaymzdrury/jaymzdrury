@@ -112,6 +112,12 @@ I am a Fullstack Developer, specializing in React, Node and AWS. From startups t
   [parallel-routes](https://github.com/jaymzdrury/next-parallel-routes)
   </details>
   <details>
+    <summary>Libraries</summary>
+    <br>
+    
+  [resend](https://github.com/jaymzdrury/next-resend.git)
+  </details>
+  <details>
     <summary>Database</summary>
     <br>
     
@@ -126,6 +132,8 @@ I am a Fullstack Developer, specializing in React, Node and AWS. From startups t
   <br>
   
   [MERN init](https://github.com/jaymzdrury/node-mongo-crud-jwt-init)
+  <br>
+  [MERN-graphql init](https://github.com/jaymzdrury/node-mongo-crud-jwt-init)
   <br>
   [MERN change-streams](https://github.com/jaymzdrury/node-mongo-streams)
 </details>
