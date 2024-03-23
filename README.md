@@ -133,7 +133,7 @@ I am a Fullstack Developer, specializing in React, Node and AWS. From startups t
   
   [MERN init](https://github.com/jaymzdrury/node-mongo-crud-jwt-init)
   <br>
-  [MERN-graphql init](https://github.com/jaymzdrury/node-mongo-graphql-init)
+  [MERN graphql](https://github.com/jaymzdrury/node-mongo-graphql-init)
   <br>
   [MERN change-streams](https://github.com/jaymzdrury/node-mongo-streams)
 </details>
