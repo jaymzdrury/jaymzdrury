@@ -137,3 +137,14 @@ I am a Fullstack Developer, specializing in React, Node and AWS. From startups t
   <br>
   [MERN change-streams](https://github.com/jaymzdrury/node-mongo-streams)
 </details>
+
+---
+
+<details>
+  <summary>Projects</summary>
+  <br>
+  
+  [Task Manager - Front](https://github.com/jaymzdrury/task-manager-frontend)
+  <br>
+  [Task Manager - Back](https://github.com/jaymzdrury/task-manager-backend)
+</details>
